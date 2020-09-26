@@ -1,3 +1,6 @@
+djangorestframework
+markdown
+django-filter
 alembic==1.3.1
 appnope==0.1.0
 asgiref==3.2.7
